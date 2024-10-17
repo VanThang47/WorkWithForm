@@ -1,0 +1,29 @@
+body{
+    background-image: url(minimalism-4k-for-mac-desktop-wallpaper-preview.jpg);
+}
+p{
+    display: inline-block;
+    color: rgb(226, 235, 235);
+}
+.yourcountry{
+    margin-left: 200px;
+}
+.fullname{
+    margin-left: 200px;
+}
+.classname{
+    margin-left: 200px;
+}
+.gender{
+    margin-left: 200px;
+}
+.youravatar{
+    margin-left: 200px;
+}
+.register{
+    margin-left: 200px;
+    margin-top: 10px;
+}
+h1{
+    margin-left: 100px;
+}
